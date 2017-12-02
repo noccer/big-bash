@@ -5,7 +5,7 @@
     justify-content: space-between;
 }
 .feature__countdown_timer_item + .feature__countdown_timer_item {
-    padding-left: 10px;
+    margin-left: 25px;
 }
 
 .feature__countdown_timer_value {
