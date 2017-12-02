@@ -65,12 +65,3 @@
     font-size: 36px;
     line-height: 36px;
 }
-
-@media screen and (min-width: 992px) {
-    .nav__toggle {
-        visibility: hidden;
-    }
-    .nav__link_container {
-        display: flex;
-    }
-}
