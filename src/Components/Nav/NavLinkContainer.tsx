@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import { NavLinks } from './NavModels';
 
 interface NavLinkContainerProps {
@@ -23,11 +23,11 @@ export default class NavLinkContainer extends React.PureComponent<NavLinkContain
                             key={index}
                             onClick={this.props.listOnClick}
                         >
-                            <Link
+                            {/* <Link
                                 to={link.url}
                             >
                                 {link.label}
-                            </Link>
+                            </Link> */}
                         </li>
                     )
                 }
