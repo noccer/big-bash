@@ -29,7 +29,7 @@ export default class App extends React.Component <AppProps, AppState> {
         this.state = {
             navOpen: false,
             matches: matchData,
-            selectedMatch: matchData[6]
+            selectedMatch: matchData[0]
         };
         this.toggleNav = this.toggleNav.bind(this);
         this.selectMatch = this.selectMatch.bind(this);
