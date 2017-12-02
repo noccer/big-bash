@@ -32,12 +32,12 @@ const adelaide: Ground = {
 const blundstone: Ground = {
     name: GroundName.Blundstone,
     state: STATE.tas,
-    imageUrl: 'http://www.bigbash.com.au/-/media/News/2017/08/21BlundstoneArena.ashx?mw=1200'
+    imageUrl: 'https://www.bigbash.com.au/-/media/News/2017/08/21BlundstoneArena.ashx?mw=1200'
 };
 const etihad: Ground = {
     name: GroundName.Etihad,
     state: STATE.vic,
-    imageUrl: 'http://cd.visitmelbourne.com/-/media/atdw/melbourne/things-to-do/entertainment/spectator-sports/original__9520272_dc37_157854528_mozrk3u_1600x900.jpg?ts=20161117590821&amp;cp=95&w=1200'
+    imageUrl: 'https://cd.visitmelbourne.com/-/media/atdw/melbourne/things-to-do/entertainment/spectator-sports/original__9520272_dc37_157854528_mozrk3u_1600x900.jpg?ts=20161117590821&amp;cp=95&w=1200'
 };
 const gabba: Ground = {
     name: GroundName.Gabba,
@@ -57,7 +57,7 @@ const manuka: Ground = {
 const mcg: Ground = {
     name: GroundName.MCG,
     state: STATE.vic,
-    imageUrl: 'http://www.bigbash.com.au/-/media/News/2016/01/17MCG.ashx'
+    imageUrl: 'https://www.bigbash.com.au/-/media/News/2016/01/17MCG.ashx'
 };
 const scg: Ground = {
     name: GroundName.SCG,
@@ -67,12 +67,12 @@ const scg: Ground = {
 const spotless: Ground = {
     name: GroundName.Spotless,
     state: STATE.nsw,
-    imageUrl: 'http://www.sydneythunder.com.au/-/media/sydneythundercomau/Images/Pages/spotless.ashx?mw=1200'
+    imageUrl: 'https://www.sydneythunder.com.au/-/media/sydneythundercomau/Images/Pages/spotless.ashx?mw=1200'
 };
 const traeger: Ground = {
     name: GroundName.Traeger,
     state: STATE.nt,
-    imageUrl: 'http://www.cricketaustralia.com.au/-/media/News/2015/05/13NT.ashx'
+    imageUrl: 'https://www.cricketaustralia.com.au/-/media/News/2015/05/13NT.ashx'
 };
 const uniTas: Ground = {
     name: GroundName.UniTas,
@@ -82,7 +82,7 @@ const uniTas: Ground = {
 const waca: Ground = {
     name: GroundName.Waca,
     state: STATE.wa,
-    imageUrl: 'http://www.bigbash.com.au/-/media/News/2017/01/21crowd.ashx?mw=1200'
+    imageUrl: 'https://www.bigbash.com.au/-/media/News/2017/01/21crowd.ashx?mw=1200'
 };
 
 export const GROUND = {
